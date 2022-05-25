@@ -9,11 +9,11 @@
 		<version>2.2.4.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.ce.wcaquino</groupId>
-	<artifactId>tasks-frontend</artifactId>
+	<groupId>br.ce.ryansbm</groupId>
+	<artifactId>projetoteste</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>tasks-frontend</name>
+	<name>projetoteste</name>
 	<description>A very simple task management tool</description>
 
 	<properties>
@@ -38,7 +38,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>tasks</finalName>
+		<finalName>projetoteste</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
